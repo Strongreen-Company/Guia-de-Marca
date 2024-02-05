@@ -23,6 +23,7 @@ Caso queira utilizar uma das fontes da marca:
 |[Comix Loud](https://github.com/Strongreen-Company/Guia-de-Marca/blob/main/Fontes/Comix%20Loud.ttf)| Usada para destaques 
 |[IntroRust](https://github.com/Strongreen-Company/Guia-de-Marca/blob/main/Fontes/IntroRustG-Base2Line.otf)| Usada para textos 
 |[Aldo the Apache](https://github.com/Strongreen-Company/Guia-de-Marca/blob/main/Fontes/AldotheApache.ttf)| Usada na logo 
+|[Bangers Regular](https://github.com/Strongreen-Company/Guia-de-Marca/blob/main/Fontes/Bangers-Regular.ttf)| Usada na criação de conteudo 
 
 ## Paleta de cores
 
