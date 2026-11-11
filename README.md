@@ -68,7 +68,3 @@ Dúvidas sobre o uso da marca? Fale com a equipe:
 - 🌐 [strongreen.com](https://www.strongreen.com)
 - 🐦 [@strongreen_](https://twitter.com/strongreen_)
 - ✉️ contato@strongreen.com
-
----
-
-Zephyr agradece sua atenção! 🐶
